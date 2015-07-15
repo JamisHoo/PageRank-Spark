@@ -26,3 +26,9 @@
 *.exe
 *.out
 *.app
+
+# vim
+*.swp
+
+# OSX
+*.DS_Store
