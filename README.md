@@ -1,2 +1,2 @@
 # PageRank-Spark
-PageRank algorithm using Spark implemented in Python3
+PageRank algorithm using Spark implemented in Python
